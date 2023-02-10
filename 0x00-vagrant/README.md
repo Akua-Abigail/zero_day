@@ -1,0 +1,1 @@
+command uname results linux
